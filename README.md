@@ -1,4 +1,4 @@
-# breaking_bad
+# Rick_and_Morty
 
 A new Flutter project.
 
