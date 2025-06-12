@@ -1,16 +1,22 @@
-# Rick_and_Morty
+# Rick and Morty Flutter App
 
-A new Flutter project.
+A simple Flutter application that displays characters from the [Rick and Morty](https://rickandmortyapi.com/) universe using the Rick and Morty API. The app is built using clean architecture principles and state management with Bloc.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Search for characters by name
+- 👤 View character details
+- 🧠 Uses Bloc for state management
+- 🌐 Data fetched from [rickandmortyapi.com](https://rickandmortyapi.com/)
+- 📱 Responsive and adaptive UI
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="assets/screenshots/Screenshot_1749735049-left.png" width="300"/>
+  <img src="assets/screenshots/Screenshot_1749735053-left.png" width="300"/>
+  <img src="assets/screenshots/Screenshot_1749735084-left.png" width="300"/>
+  <img src="assets/screenshots/Screenshot_1749735099-left.png" width="300"/>
+  <img src="assets/screenshots/Screenshot_1749735120-left.png" width="300"/>
+  <img src="assets/screenshots/Screenshot_1749735129-left.png" width="300"/>
+</div>
